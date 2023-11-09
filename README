@@ -1,0 +1,25 @@
+# Genshin Launch loading screen for Linux using plymouth
+
+## Usage / 使用方法
+
+### Preview / 预览
+
+[Ubuntu？启动！](https://www.bilibili.com/video/BV1nN411g789)
+
+### Install / 安装
+
+``` bash
+sudo ./install.sh
+```
+
+### Uninstall / 卸载
+
+``` bash
+sudo update-alternatives --remove default.plymouth /usr/share/plymouth/themes/GenshinLaunch/GenshinLaunch.plymouth
+```
+
+### Acknowledgement / 致谢
+
+1. [Plymouth-SimulatedUniverse](https://github.com/ohaiibuzzle/Plymouth-SimulatedUniverse)
+2. [StarRailGrubThemes](https://github.com/voidlhf/StarRailGrubThemes)
+3. [plymouth-themes](https://github.com/adi1090x/plymouth-themes)
