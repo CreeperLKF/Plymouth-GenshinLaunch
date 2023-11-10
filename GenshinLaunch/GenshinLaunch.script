@@ -16,6 +16,10 @@ STAGE_0_SUBFRAME = 150;
 STAGE_1_DIVISION = 4;
 STAGE_2_DIVISION = 10;
 
+if (HAS_LUKS == 0) {
+  STAGE_1_FRAME = STAGE_2_FRAME
+  STAGE_1_DIVISION = STAGE_2_DIVISION;
+}
 
 if (Plymouth.GetMode () == "boot") {
   // Screen size
