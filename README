@@ -1,10 +1,12 @@
-# Genshin Launch loading screen for Linux using plymouth
+# Genshin Launch splash screen for Linux using plymouth
 
-## Usage / 使用方法
-
-### Preview / 预览
+## Preview / 预览
 
 [Ubuntu？启动！](https://www.bilibili.com/video/BV1nN411g789)
+
+The boot animation will be Genshin Launch and others will be simulated universe from Honkai Star Rail (Copy from Plymouth-SimulatedUniverse for out-of-box experience).
+
+## Usage / 使用方法
 
 ### Install / 安装
 
