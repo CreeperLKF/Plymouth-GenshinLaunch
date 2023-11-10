@@ -27,3 +27,9 @@ sudo update-alternatives --remove default.plymouth /usr/share/plymouth/themes/Ge
 1. [Plymouth-SimulatedUniverse](https://github.com/ohaiibuzzle/Plymouth-SimulatedUniverse)
 2. [StarRailGrubThemes](https://github.com/voidlhf/StarRailGrubThemes)
 3. [plymouth-themes](https://github.com/adi1090x/plymouth-themes)
+
+## Disclaimer / 免责声明
+
+Please carefully check if the scripts fit your computer well before execution. Scripts in these projects were tested in the authors' computer.
+
+请仔细检查脚本能否在你的电脑上工作（目前只在本人的电脑上进行了测试）。
