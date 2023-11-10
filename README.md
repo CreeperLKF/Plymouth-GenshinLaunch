@@ -6,6 +6,8 @@
 
 The boot animation will be Genshin Launch and others will be simulated universe from Honkai Star Rail (Copy from Plymouth-SimulatedUniverse for out-of-box experience).
 
+开机画面是原神启动，关机、重启等是模拟宇宙加载图标。
+
 ## Usage / 使用方法
 
 ### Install / 安装
